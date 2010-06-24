@@ -1,0 +1,5 @@
+facter
+
+This is the facter module. It is used by *ALL* nodes.
+
+Released 20100624 - Garrett Honeycutt - GPLv2

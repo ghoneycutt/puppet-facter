@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-facter",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "010128282f924f67a8c7e711f8abb8dc",
+    "tests/init.pp": "beefcebc612dc6d17069a9097b16cbf0",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "4b82eaa1001d3ff29f0b1a32d7c27d32",
+    "manifests/init.pp": "89fc03b0abb6e5b8c052ec9517070be0"
+  },
+  "types": [
+
+  ]
+}
