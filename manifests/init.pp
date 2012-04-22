@@ -6,5 +6,5 @@
 #
 class facter {
 
-    package { "facter": ensure => latest }
+    package { "facter": ensure => present }
 } # class facter
